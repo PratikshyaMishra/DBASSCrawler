@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/jsoup-1.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/jetty-client-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/jetty-http-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/jetty-io-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/jetty-util-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/websocket-api-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/websocket-client-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/websocket-common-9.4.1.v20170120.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/milan/Documents/external jars/htmlunit-2.25/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
